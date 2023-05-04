@@ -1,0 +1,6 @@
+{
+    "editor.indentSize": "tabSize",
+    "editor.scrollBeyondLastColumn": 2,
+    "editor.useTabStops": true,
+    "editor.tabCompletion": "off"
+}
